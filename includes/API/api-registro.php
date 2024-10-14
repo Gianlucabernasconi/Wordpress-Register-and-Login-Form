@@ -43,3 +43,5 @@ function plz_registro_callback($request){
 }
 
 add_action("rest_api_init", "plz_api_registro");
+
+//Done
